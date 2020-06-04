@@ -1,0 +1,2 @@
+# jstcdn
+jsDelivrCDN
