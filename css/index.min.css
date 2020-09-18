@@ -208,7 +208,7 @@
 .moon-menu-bg,
 .moon-menu-content {
     position: fixed;
-    right: 20px;
+    right: 29px;
     bottom: 95px;
     padding-top: 15px;
     margin-bottom: 0px;
@@ -380,4 +380,18 @@ li {
 
 a {
     color: #333
+}
+@media only screen and (max-width: 860px){
+    .moon-menu,
+    .moon-menu-bg,
+    .moon-menu-content {
+    position: fixed;
+    right: 16px;
+    bottom: 95px;
+    padding-top: 15px;
+    margin-bottom: 0px;
+    width: 4em;
+    height: 4em;
+    z-index: 998;
+}
 }
