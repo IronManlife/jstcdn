@@ -378,9 +378,6 @@ li {
     list-style-type: none !important
 }
 
-a {
-    color: #333
-}
 @media only screen and (max-width: 860px){
     .moon-menu,
     .moon-menu-bg,
