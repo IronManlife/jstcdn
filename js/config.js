@@ -1,0 +1,48 @@
+// array of Monitor-specific API keys or Main API key to list all monitors
+var __apiKeys = [
+	'm786035924-5a0066185d17e96d40f1e33d', //今生主博客
+	'm786126252-d3a80d7709f4068df7dfc631', //今生主服务器
+	'm786122178-b9f94b1921af4efe574fea90', //Cheng
+	'm786122189-940fe2827eef3d59c57d7318', //HCLonely
+	'm786122174-51c0ff3a4e1e4d21f1729e3b', //hmblog
+	'm786122201-f0f54bd90cafdf1397f45ea0', //itsNekoDeng
+	'm786035930-d4db3d65b7fad87d6b398c64', //96SIR - Deng's Blog
+	'm786035926-e45287fe382da132e819bf01', //Ryan Wang's Blog
+	'm786035927-ad1ed68aa60e91804197a4b7', //JohnNiang's Blog
+	'm786122203-975b32f6f1e8a56c4ac6f0b6', //Juning的小本本
+	'm786122165-d00814ebca3d9d0fa5838f8c', //kezunlin
+	'm786122169-9830ce2f5f26e93ce89f92bf', //LOGI
+	'm786122197-4a1f5f64b6cbaca9c5f4be4c', //Perry
+	'm786122161-4c0283e6f6ed360abb292107', //Sanarous
+	'm786122182-9567944611565e9cd67fbbee', //Small-Rose
+	'm786122162-3a24fdd3353e3aca6c5b4729', //ZEEKLING
+	'm786122183-8a4438d45627f586e0674b40', //久别人潮
+	'm786122179-3b9a17aba10f29684936201d', //云帆沧海
+	'm786122180-4f7eaeae936159b1f3e82b1c', //仟寻
+	'm786036104-e202b9661a286d1c92ddef94', //低调小熊猫
+	'm786122159-8dba2715893119773f0400d5', //俍注
+	'm786122184-811599713aedb1464cbdecfa', //凌中的锋雨
+	'm786122172-76abec8ff05bbd423edc7c88', //北纬36度
+	'm786122151-482bfd15253a524b1b5823a2', //太傅
+	'm786122170-17492c431e9a3f22c74dea3e', //孤影墨香
+	'm786036107-6f2db6475eb0357ab8f73253', //寒山志
+	'm786122193-b25d18a1323cd9a363f0351f', //廉一鸣的博客
+	'm786122192-579b7bf63dcafe293dea2887', //枭遥小站
+	'm786122153-67f75ced4c552ab80385954a', //水寒的博客
+	'm786122157-c4d80e6f94e8c35dc75e19eb', //海加尔金鹰
+	'm786122148-c835a0baec6ae85a8b83b4ad', //灿烂星空
+	'm786122163-6c3c5a9edd3842e0402f0840', //爱敲代码的猫
+	'm786122173-000f2ee2fcae262005e472ff', //知向前端
+	'm786122196-b6cfc9fe8c361574853832c1', //祈里Inori
+	'm786122187-cb9b9e67c7066abb00a4abd0', //萌卜兔's
+	'm786036087-5af4580e6006892f6c7df917', //辣椒の酱
+	'm786122202-1631564e980d773512462445', //超逸の技术博客
+	'm786122152-0ac8b03d8270ba3f97371d40', //逸香阁
+	'm786122194-e553170b05c063345c629e44', //阳光派Plus’Blog
+	'm786261626-4d4a0824024071891d89496e', //Xu’s Blog
+	'm786261621-a9f33f9ff216e1d4e4a1d2b9', //皮皮凛の小窝
+	'm786261624-7adf4da1b8397d488fb874f9', //凡尘纪
+];
+
+// refresh interval (in seconds)
+var __refresh = 120;
