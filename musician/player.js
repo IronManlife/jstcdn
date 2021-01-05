@@ -6,7 +6,7 @@
  *************************************************/
 // 播放器功能配置
 var mkPlayer = {
-    api: "index.php", // api地址
+    api: "http://47.115.38.239:8067/index.php", // api地址
     loadcount: 20,  // 搜索结果一次加载多少条
     method: "POST",     // 数据传输方式(POST/GET)
     defaultlist: 3,    // 默认要显示的播放列表编号
