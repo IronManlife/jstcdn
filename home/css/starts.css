@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'icomoonsvg';
-    src:  url('../fonts/icomoonsvg.eot?moqecc');
-    src:  url('../fonts/icomoonsvg.eot?moqecc#iefix') format('embedded-opentype'),
-      url('../fonts/icomoonsvg.ttf?moqecc') format('truetype'),
-      url('../fonts/icomoonsvg.woff?moqecc') format('woff'),
-      url('../fonts/icomoonsvg.svg?moqecc#icomoon') format('svg');
+    src:  url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoonsvg.eot?moqecc');
+    src:  url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoonsvg.eot?moqecc#iefix') format('embedded-opentype'),
+      url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoonsvg.ttf?moqecc') format('truetype'),
+      url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoonsvg.woff?moqecc') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoonsvg.svg?moqecc#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;

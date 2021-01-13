@@ -91,10 +91,10 @@ body{overflow-x: hidden;};
 @font-face {
     font-family: 'icomoon';
     /* 自行安装第三方字体图标库 */
-    src: url('../fonts/icomoon.eot');
-    src: url('../fonts/icomoon.woff') format('woff'),
-    url('../fonts/icomoon.ttf') format('truetype'),
-    url('../fonts/icomoon.svg') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoon.eot');
+    src: url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoon.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoon.ttf') format('truetype'),
+    url('https://cdn.jsdelivr.net/gh/betsyx/jstcdn/home/fonts/icomoon.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
