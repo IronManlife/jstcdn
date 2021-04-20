@@ -43,7 +43,8 @@ var __apiKeys = [
 	'm786261621-a9f33f9ff216e1d4e4a1d2b9', //皮皮凛の小窝
 	'm786261624-7adf4da1b8397d488fb874f9', //凡尘纪
 	'm786920751-91489c5f2c97c6ece719ef78', //框架师
-	'm787102294-0a2afdce41e077f352a9639d'  //Vino
+	'm787102294-0a2afdce41e077f352a9639d',  //Vino
+	'm787911283-d864303a72c4313e0feaae15'  //猕猴の那年记忆
 ];
 
 // refresh interval (in seconds)
